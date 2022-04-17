@@ -1,0 +1,178 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\zc7020_schematic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\zc7020_schematic.dsn")
+      (Path "Design Resources" ".\zc7020_schematic.dsn" "Parallella")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 866"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1346 52 508")
+        (Scroll "42 219")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "01-COVER PAGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1376 78 538")
+        (Scroll "-122 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "02-ZYNQ BANK 0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1402 104 564")
+        (Scroll "172 16")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "03-ZYNQ BANK 500"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1428 130 590")
+        (Scroll "-213 0")
+        (Zoom "41")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "04-ZYNQ BANK 501"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1454 156 616")
+        (Scroll "-211 0")
+        (Zoom "41")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "05-GIGE PORT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1480 182 642")
+        (Scroll "-120 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "06-USB PORTS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1506 208 668")
+        (Scroll "159 294")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "07-ZYNQ BANK 502"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1298 0 460")
+        (Scroll "536 490")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "08-DDR3-256MX32"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1324 26 486")
+        (Scroll "536 280")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "09-PL BANKS 34 & 35"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1350 52 512")
+        (Scroll "172 56")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "10-ZYNQ PWR & GND"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1376 78 538")
+        (Scroll "-211 0")
+        (Zoom "41")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "11-DSP PROCESSOR 1-OF-3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1402 104 564")
+        (Scroll "-211 0")
+        (Zoom "41")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "14-DSP eLINK CONNECTORS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1428 130 590")
+        (Scroll "-120 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "15-HDMI TRNSMITTER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1454 156 616")
+        (Scroll "0 0")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "16-POWER MANAGEMENT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1480 182 642")
+        (Scroll "0 75")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path "D:\ADI\ZYNQ7020\XC7Z010\ZC7020_SCHEMATIC.DSN")
+      (Schematic "Parallella")
+      (Page "17-RESET GENERATION")))
+  (MPSSessionName "75178"))
